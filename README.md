@@ -1,6 +1,8 @@
 # DIKWP OmegaSyntropy Artificial Life OS
 
-**DIKWP Ω负熵终极意图人工生命系统**
+Created by Yucong Duan (段玉聪).
+
+DIKWP Ω负熵终极意图人工生命系统
 
 A bounded, offline, GitHub-ready artificial-life research system that combines:
 
@@ -17,11 +19,11 @@ A bounded, offline, GitHub-ready artificial-life research system that combines:
 Schrodinger's negative-entropy metaphor is treated carefully: living systems do
 not reverse the second law globally. They maintain local organization through
 free-energy throughput and entropy export. This project then adds a separate,
-explicitly non-physical research layer: an **Omega reference field** that asks
+explicitly non-physical research layer: an Omega reference field that asks
 whether local order, semantic integration and open-ended evolution can be
 oriented relative to a possible universal ultimate intention.
 
-The ultimate-intent claim is **not hard-coded as fact**. It is one candidate in a
+The ultimate-intent claim is not hard-coded as fact. It is one candidate in a
 hypothesis field that always retains the null hypothesis of no externally given
 telos.
 
